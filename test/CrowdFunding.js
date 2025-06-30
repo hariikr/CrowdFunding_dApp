@@ -1,0 +1,1 @@
+// This file is intentionally left blank to avoid duplicate test execution. Please use the test file in thirdweb-contracts/test/CrowdFunding.js.
